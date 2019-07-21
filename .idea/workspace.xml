@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b638c77a-89d2-4878-8bd6-02c36d1f7686" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="75">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -98,8 +97,8 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
-    <option name="y" value="28" />
+    <option name="x" value="96" />
+    <option name="y" value="208" />
     <option name="width" value="1595" />
     <option name="height" value="952" />
   </component>
@@ -170,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1563688326793</updated>
       <workItem from="1563688329828" duration="1556000" />
-      <workItem from="1563701376945" duration="2843000" />
+      <workItem from="1563701376945" duration="3353000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1563701889806</created>
@@ -200,14 +199,28 @@
       <option name="project" value="LOCAL" />
       <updated>1563706239776</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="user1 1st commit">
+      <created>1563706651188</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563706651188</updated>
+    </task>
+    <task id="LOCAL-00006" summary="user1 2st commit">
+      <created>1563706808916</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563706808916</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4399000" />
+    <option name="totallyTimeSpent" value="4909000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="28" width="1595" height="952" extended-state="0" />
+    <frame x="96" y="208" width="1595" height="952" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -215,7 +228,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25627816" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.25627816" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -224,7 +237,7 @@
       <window_info anchor="bottom" id="Messages" order="4" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Java Enterprise" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49967805" visible="true" weight="0.3297491" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49967805" visible="true" weight="0.3297491" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32982457" />
@@ -252,7 +265,8 @@
     <MESSAGE value="2st commit" />
     <MESSAGE value="3st commit" />
     <MESSAGE value="user1 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="user1 1st commit" />
+    <MESSAGE value="user1 2st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="user1 2st commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -278,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
