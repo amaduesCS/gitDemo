@@ -269,11 +269,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563708871294</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Merge branch 'master' of https://github.com/amaduesCS/gitDemo&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/hello.java">
+      <created>1563708921856</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1563708921856</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge branch 'master' of https://github.com/amaduesCS/gitDemo&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/hello.java">
+      <created>1563708957532</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1563708957532</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6517000" />
+    <option name="totallyTimeSpent" value="6754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1595" height="952" extended-state="0" />
