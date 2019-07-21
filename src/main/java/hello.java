@@ -3,7 +3,7 @@ public class hello {
         System.out.println("hellovvv");
         System.out.println("hello2");
         System.out.println("hello3");
-        System.out.println(555555);
+        System.out.println(66666);
         System.out.println(112);
         System.out.println(44444);
     }
