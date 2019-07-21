@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b638c77a-89d2-4878-8bd6-02c36d1f7686" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -169,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1563688326793</updated>
       <workItem from="1563688329828" duration="1556000" />
-      <workItem from="1563701376945" duration="3353000" />
+      <workItem from="1563701376945" duration="3858000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1563701889806</created>
@@ -213,14 +214,35 @@
       <option name="project" value="LOCAL" />
       <updated>1563706808916</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="user1 3st commit">
+      <created>1563707174906</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563707174906</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge branch 'master' of https://github.com/amaduesCS/gitDemo&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/hello.java">
+      <created>1563707277081</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563707277081</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge branch 'master' of https://github.com/amaduesCS/gitDemo&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/hello.java">
+      <created>1563707375651</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1563707375651</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4909000" />
+    <option name="totallyTimeSpent" value="5414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="208" width="1595" height="952" extended-state="0" />
+    <frame x="27" y="43" width="1595" height="952" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -266,7 +288,9 @@
     <MESSAGE value="3st commit" />
     <MESSAGE value="user1 1st commit" />
     <MESSAGE value="user1 2st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="user1 2st commit" />
+    <MESSAGE value="user1 3st commit" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/amaduesCS/gitDemo&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/hello.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/amaduesCS/gitDemo&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/hello.java" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -292,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
